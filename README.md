@@ -1,7 +1,3 @@
-Here’s a well-structured example of how you could design your README for your project **Spaceshooter** using Markdown:
-
----
-
 # Spaceshooter 🚀
 
 Spaceshooter is a thrilling space-based arcade game where players navigate a spaceship through asteroid fields, engage in combat, and collect power-ups.
