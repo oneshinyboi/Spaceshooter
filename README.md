@@ -39,12 +39,3 @@ or,
 3. **Play the Game**:
    - Press the **Play** button in Unity to start testing the game.
 
----
-
-## 🖼️ Screenshots
-
-### Main Menu:
-![Main Menu](promoImages/mainMenu.png)
-
-### Health Pack Pickup:
-![Health Pack](promoImages/HealthPack.png)
